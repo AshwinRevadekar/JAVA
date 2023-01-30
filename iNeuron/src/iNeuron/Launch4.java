@@ -3,7 +3,8 @@ package iNeuron;
 	public class Launch4 {
 
 		public static void main(String[] args) {
-			// TODO Auto-generated method stub
+	System.out.println("Hiiii");
+	System.out.println("CDAC");
 			
 			int n=10;
 			for(int i=0;i<n;i++)
